@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Levi
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning HTML
+- 🌱 I’m currently learning HTML and CSS
 
 ![Levis github stats](https://github-readme-stats.vercel.app/api?username=levigtri)
 
