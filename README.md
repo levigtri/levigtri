@@ -1,5 +1,7 @@
-- 👋 Hi, I’m Levi
-- 👀 I’m Studing in Programming
+# 👋 Hi, I’m Levi
+
+
+- 📚 I am studying software engineering
 - 🌱 I’m currently learning HTML, CSS And JS
 
 ![Levis github stats](https://github-readme-stats.vercel.app/api?username=levigtri)
