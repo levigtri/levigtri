@@ -2,7 +2,7 @@
 
 
 - 📚 I am studying software engineering
-- 🌱 I’m currently learning HTML, CSS And JS
+- 🌱 I’m currently learning C and C++
 
 ![Levis github stats](https://github-readme-stats.vercel.app/api?username=levigtri)
 
