@@ -2,7 +2,7 @@
 
 
 - 📚 I am studying software engineering
-- 🌱 I’m currently learning C and Machine Learn!
+- 🌱 I’m currently learning C, ED in C++, POO in Java and Machine Learn!
 - 👨🏻‍💻 Do you want to learn machine learning in an interactive way? Send me a message.
 
 ![Levis github stats](https://github-readme-stats.vercel.app/api?username=levigtri)
