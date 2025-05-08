@@ -7,7 +7,6 @@ My journey with development began in 2022, when I started coming up with ideas f
 ### Currently, I've worked on:
 
 - 👨‍💻 DevOps, CI/CD, and Pipelines – I've gained hands-on experience with automating software delivery processes, implementing continuous integration and deployment workflows to improve development efficiency and reliability.
-
 - 🔎 Researching the Use of LLMs in DevOps – I'm studying how Large Language Models (LLMs) can enhance automation in DevOps tasks, exploring ways to integrate AI-driven solutions into infrastructure management and deployment workflows.
 
 ### 🛠️ Technologies & Tools
