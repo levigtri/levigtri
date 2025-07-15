@@ -8,7 +8,7 @@ My journey with development began in 2022, when I started coming up with ideas f
 
 - 👨‍💻 DevOps, CI/CD, and Pipelines – I've gained hands-on experience with automating software delivery processes, implementing continuous integration and deployment workflows to improve development efficiency and reliability.
 
-- 🔎 Researching the Use of LLMs in DevOps – I'm studying how Large Language Models (LLMs) can enhance automation in DevOps tasks, exploring ways to integrate AI-driven solutions into infrastructure management and deployment workflows.
+- 🚀 Fullstack Development Specialization – I'm currently specializing in fullstack development through an intensive bootcamp, where I'm sharpening my skills in both front-end and back-end technologies. By working on real-world projects and following industry best practices, I'm preparing to become a well-rounded developer capable of tackling challenges across the entire tech stack.
 
 ### 🛠️ Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
